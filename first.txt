@@ -1,1 +1,2 @@
 First file message
+Next string
